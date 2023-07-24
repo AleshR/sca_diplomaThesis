@@ -29,7 +29,8 @@ twitter_username: ''
 github_username:  'AleshR'
 
 # Build settings
-theme: 'jekyll-theme-hacker'
+#theme: 'jekyll-theme-hacker'
+remote-theme: 'victorvoid/space-jekyll-template/'
 plugins:
   - jekyll-feed
 
