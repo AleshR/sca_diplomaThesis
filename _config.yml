@@ -29,7 +29,7 @@ twitter_username: ''
 github_username:  'AleshR'
 
 # Build settings
-theme: space-jekyll-template
+theme: 'jekyll-theme-hacker'
 plugins:
   - jekyll-feed
 
