@@ -30,7 +30,7 @@ github_username:  'AleshR'
 
 # Build settings
 #theme: 'jekyll-theme-hacker'
-remote_theme: 'victorvoid/space-jekyll-template/'
+remote_theme: 'victorvoid/space-jekyll-template'
 plugins:
   - jekyll-feed
 
