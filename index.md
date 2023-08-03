@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sidechannel analysis with Machine Learning
-tagline: Diploma tesis
+tagline: Diploma thesis
 description: Blog following my progress with diploma thesis
 ---
 
